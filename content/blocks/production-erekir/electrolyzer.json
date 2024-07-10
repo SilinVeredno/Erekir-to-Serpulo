@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Electrolyzer",
+  "name": "Duplelectrolyzer",
   "description": "Produces Hydrogen and Ozone",
   "size": 3,
   "drawer": {
