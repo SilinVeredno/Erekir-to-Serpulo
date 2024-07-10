@@ -1,7 +1,7 @@
 {
   "name": "erekir-to-serpulo",
   "displayName": "Erekir To Serpulo",
-  "author": "Lunatico" "Silin Veredno",
+  "author": "Lunatico and Silin Veredno",
   "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources",
   "version": "1",
   "minGameVersion": "145",
